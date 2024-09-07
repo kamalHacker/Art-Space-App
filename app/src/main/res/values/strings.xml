@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+
+    <string name="image1">The Ascension</string>
+    <string name="image2">Monalisa</string>
+    <string name="image3">Peacock Feather</string>
+    <string name="image4">Red Sky</string>
+    <string name="image5">Starry Night</string>
+    <string name="image6">Nature\'s Beauty</string>
+    <string name="image7">Guernica</string>
+
+    <string name="art1_year">2017</string>
+    <string name="art2_year">2011</string>
+    <string name="art3_year">2010</string>
+    <string name="art4_year">2000</string>
+    <string name="art5_year">1987</string>
+    <string name="art6_year">2004</string>
+    <string name="art7_year">2015</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
